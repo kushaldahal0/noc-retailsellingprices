@@ -1,4 +1,4 @@
-apturl==none
+
 attrs==21.2.0
 Automat==20.2.0
 bcrypt==3.2.0
