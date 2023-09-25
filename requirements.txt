@@ -13,7 +13,7 @@ cryptography==3.4.8
 dbus-python==1.2.18
 defer==1.0.4
 distro==1.7.0
-distro-info===1.1build1
+distro-info===1.0
 httplib2==0.20.2
 hyperlink==21.0.0
 idna==3.3
